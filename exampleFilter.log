@@ -1,0 +1,22 @@
+2018-06-15 09:50:05.432 INFO [main] o.s.j.e.a.AnnotationMBeanExporter [MBeanExporter.java:431] - Registering beans for JMX exposure on startup
+2018-06-15 09:50:05.452 INFO [main] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:343] - Starting beans in phase 2147483647
+2018-06-15 09:50:05.452 INFO [main] s.d.s.w.p.DocumentationPluginsBootstrapper [DocumentationPluginsBootstrapper.java:147] - Context refreshed
+2018-06-15 09:50:05.551 INFO [main] s.d.s.w.p.DocumentationPluginsBootstrapper [DocumentationPluginsBootstrapper.java:150] - Found 1 custom documentation plugin(s)
+2018-06-15 09:50:06.040 INFO [main] s.d.s.w.s.ApiListingReferenceScanner [ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2018-06-15 09:50:07.747 INFO [main] s.d.s.w.r.o.CachingOperationNameGenerator [CachingOperationNameGenerator.java:40] - Generating unique operation named: loadInvestorAccountsUsingGET_1
+2018-06-15 09:50:07.951 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:179] - Initializing ProtocolHandler ["http-nio-5000"]
+2018-06-15 09:50:07.984 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:179] - Starting ProtocolHandler ["http-nio-5000"]
+2018-06-15 09:50:08.016 INFO [main] o.a.t.u.n.NioSelectorPool [DirectJDKLog.java:179] - Using a shared selector for servlet write/read
+2018-06-15 09:50:08.059 INFO [main] o.s.b.c.e.t.TomcatEmbeddedServletContainer [TomcatEmbeddedServletContainer.java:201] - Tomcat started on port(s): 5000 (http)
+2018-06-15 09:50:08.065 INFO [main] c.b.i.InvestigatorMain [StartupInfoLogger.java:57] - Started InvestigatorMain in 21.298 seconds (JVM running for 25.551)
+2018-06-15 09:50:42.150 WARN [http-nio-5000-exec-10] c.l.p.e.ElasticSearchIndexingException [ElasticSearchIndexingException.java:15] - Indexing failure
+2018-06-15 09:51:17.777 WARN [http-nio-5000-exec-1] c.l.p.e.ElasticSearchIndexingException [ElasticSearchIndexingException.java:15] - Indexing failure
+2018-06-16 08:13:13.581 INFO [Test worker] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:319] - Neither xxx
+2018-06-16 10:03:24.758 ERROR [http-nio-5000-exec-8] c.l.p.s.InvestorService [InvestorService.java:127] - Investor indexing failure had happened due to the data doesnot exist in [5ee01ad0-15fd-11e8-9cfb-9e4322fea8f0] xxx
+2018-06-16 10:03:24.758 ERROR [http-nio-5000-exec-8] c.l.p.s.InvestorService [InvestorService.java:127] - Investor indexing failure had happened due to the data doesnot exist in [5ee01ad0-15fd-11e8-9cfb-9e4322fea8f0] xxx
+2018-06-16 10:03:24.758 ERROR [http-nio-5000-exec-8] c.l.p.s.InvestorService [InvestorService.java:127] - Investor indexing failure had happened due to the data doesnot exist in [5ee01ad0-15fd-11e8-9cfb-9e4322fea8f0] xxx
+2018-06-16 10:03:24.758 ERROR [http-nio-5000-exec-8] c.l.p.s.InvestorService [InvestorService.java:127] - Investor indexing failure had happened due to the data doesnot xxx
+2018-06-16 10:03:24.758 ERROR [http-nio-5000-exec-8] c.l.p.s.InvestorService [InvestorService.java:127] - Investor indexing failure had happened due to the data doesnot xxx
+2018-06-16 10:03:24.758 ERROR [http-nio-5000-exec-8] c.l.p.s.InvestorService [InvestorService.java:127] - Investor indexing failure had happened due to the data doesnot xxx
+2018-06-16 10:03:24.758 ERROR [http-nio-5000-exec-8] c.l.p.s.InvestorService [InvestorService.java:127] - Investor indexing failure had happened due to the data doesnot xxx
+2018-06-16 10:03:24.758 ERROR [http-nio-5000-exec-8] c.l.p.s.InvestorService [InvestorService.java:127] - Investor indexing failure had happened due to the data does xxx
